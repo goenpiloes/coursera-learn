@@ -1,2 +1,2 @@
-# coursera-learn-1
+# coursera-learn
 First repository while enrolling coursera course
