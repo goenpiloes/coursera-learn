@@ -29,7 +29,7 @@ p {
 }
 
 .section_box {
-  border: 3px solid black;
+  border: 1px solid black;
   height: 340px;
   overflow: hidden;
   background-color: #46D9DE;
